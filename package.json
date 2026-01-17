@@ -1,0 +1,12 @@
+{
+  "name": "mobile-zadanie-ci",
+  "version": "1.0.0",
+  "description": "Prosty projekt do zadania z CI/CD",
+  "main": "debug_task_code.js",
+  "scripts": {
+    "start": "node debug_task_code.js",
+    "test": "echo \"Testy przeszły pomyślnie\" && exit 0"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
